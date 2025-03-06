@@ -71,6 +71,6 @@ O software foi desenvolvido com .NET CORE em Windows Form com a linguagem de pro
 
 > Orientadora: Jane Maria dos Santos Eberson
 
-##
+<hr>
 
-**_O código não está sendo disponibilizado por se tratar de um produto desenvolvido sobe medida para um cliente, caso queira vê-lo, entrar em contato com um dos integrantes do projeto!_**
+_O código não está sendo disponibilizado por se tratar de um produto desenvolvido sobe medida para um cliente, caso queira vê-lo, entrar em contato com um dos integrantes do projeto!_
