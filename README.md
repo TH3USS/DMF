@@ -13,6 +13,8 @@ O software consiste em uma forma de gameficação criada pelo professor para din
 
 O software foi desenvolvido com .NET CORE em Windows Form com a linguagem de programação C#, e MySql como banco de dados.
 
+![Image](https://github.com/user-attachments/assets/f4d5ac65-d530-4ff3-bad1-a90b27bfa6d5)
+
 <hr>
 
 ## Equipe 👥
