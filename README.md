@@ -1,5 +1,11 @@
 # Dimensionamento de Frota 🚛
 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+###
+
 Elaboração de um software para dimensionamento de frota como um produto ao professor Marcos José Correa Bueno, professor de logística da faculdade Fatec Guarulhos, o projeto contava com profissionais de banco de dados, documentação, analistas, desenvolvimento e teste de software.
 
 O software consiste em uma forma de gameficação criada pelo professor para dinamizar as aulas sobre dimensionamento de frota, e transformada por nós da equipe em um software, com o objetivo de levar os alunos do curso de logística a porem em pratica os conhecimentos adquiridos em relação a matéria de Dimensionamento de Frota.
@@ -64,9 +70,6 @@ O software foi desenvolvido com .NET CORE em Windows Form com a linguagem de pro
 
 > Orientadora: Jane Maria dos Santos Eberson
 
-<hr>
+##
 
-## Tecnologias utilizadas
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+**_O código não está sendo disponibilizado por se tratar de um produto desenvolvido sobe medida para um cliente, caso queira vê-lo, entrar em contato com um dos integrantes do projeto!_**
