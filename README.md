@@ -66,6 +66,3 @@ Responsável por orientar a equipe quanto à escolha de tecnologias e metodologi
 
 > *O código-fonte não está disponível publicamente por se tratar de um produto sob medida para o cliente. Interessados podem entrar em contato com os integrantes do projeto para obter acesso.*
 
----
-
-Quer que eu gere também um README.md com essa estrutura pronta para usar?
