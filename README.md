@@ -1,78 +1,71 @@
 # Dimensionamento de Frota 🚛
 
-### Tecnologias Utilizadas: 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### Tecnologias Utilizadas
 
-###
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-Elaboração de um software para dimensionamento de frota como um produto ao professor Marcos José Correa Bueno, professor de logística da faculdade Fatec Guarulhos, o projeto contava com profissionais de banco de dados, documentação, analistas, desenvolvimento e teste de software.
+---
 
-O software consiste em uma forma de gameficação criada pelo professor para dinamizar as aulas sobre dimensionamento de frota, e transformada por nós da equipe em um software, com o objetivo de levar os alunos do curso de logística a porem em pratica os conhecimentos adquiridos em relação a matéria de Dimensionamento de Frota.
+Este projeto consiste na elaboração de um software para dimensionamento de frota, desenvolvido como produto para o professor Marcos José Correa Bueno, docente de logística da Fatec Guarulhos. O projeto envolveu uma equipe multidisciplinar composta por profissionais de banco de dados, documentação, análise, desenvolvimento e testes de software.
 
-O software foi desenvolvido com .NET CORE em Windows Form com a linguagem de programação C#, e MySql como banco de dados.
+O software foi inspirado em uma gamificação criada pelo professor para dinamizar as aulas de Dimensionamento de Frota, transformada por nossa equipe em um sistema funcional. O objetivo é proporcionar aos alunos do curso de logística uma ferramenta prática para aplicar os conhecimentos teóricos da disciplina.
 
-![Image](https://github.com/user-attachments/assets/f4d5ac65-d530-4ff3-bad1-a90b27bfa6d5)
+O desenvolvimento foi realizado em .NET CORE com Windows Forms utilizando a linguagem C# e MySQL como banco de dados.
 
-<hr>
+![Imagem do projeto](https://github.com/user-attachments/assets/f4d5ac65-d530-4ff3-bad1-a90b27bfa6d5)
+
+---
 
 ## Equipe 👥
 
-### **Testes**
+### Testes
 
-#### Responsáveis por realizar os testes de qualidade (QA) do software e por garantir que os mesmo se encontra em conformidade com as funcionalidades requisitadas pelo cliente.
+Responsáveis por garantir a qualidade do software, realizando testes de conformidade com as funcionalidades requisitadas.
 
 > Integrantes: Pedro, João Victor, Matheus Silkinaite.
 
-##
+### Analistas
 
-### **Analistas**
-
-#### Responsáveis pelo planejamento do sistema, levantamento das funcionalidades, e toda e qualquer interação com o cliente para o levantamento de informações ou para sanar dúvidas da equipe.
+Responsáveis pelo planejamento do sistema, levantamento das funcionalidades e comunicação com o cliente para esclarecimento de dúvidas e coleta de requisitos.
 
 > Integrantes: Anita, Edilson, Yuri.
- 
-##
 
-### **Banco de Dados**
+### Banco de Dados
 
-#### Responsáveis pela elaboração e construção do banco de dados utilizado pelo sistema, elaboração das Querys SQL.
+Responsáveis pela modelagem e construção do banco de dados, bem como elaboração das queries SQL utilizadas pelo sistema.
 
 > Integrantes: Daniel Xavier, Maria Julia, Vinicius Soares.
 
-##
+### Desenvolvedor Front-End
 
-### **Desenvolvedor Front-End**
+Responsável pela criação e implementação da interface, layout e experiência do usuário (UX/UI).
 
-#### Responsável pela elaboração e implementação da interface, layout e UX/UI visando a melhor experiencia do usuário com o sistema.
+> Integrante: Matheus Ramos.
 
-> Integrantes: Matheus Ramos
+### Desenvolvedores Back-End
 
-##
-
-### **Desenvolvedores Bak-End**
-
-#### Responsáveis pela implementação da lógica e das contas matemáticas disponibilizadas pelo cliente, responsáveis pela elaboração e implementação de todos os sistemas que englobam o software.
+Responsáveis pela implementação da lógica do sistema e cálculos matemáticos definidos pelo cliente, além da programação dos sistemas do software.
 
 > Integrantes: Thomas, Matheus Ramos, Mateus Hiroshi, Felipe.
- 
-##
 
-### **Documentação**
+### Documentação
 
-#### Responsável por documentar todo o processo de elaboração, os requisitos, as regras de negócio, as reuniões realizadas pela equipe, entre outros.
+Responsável por documentar todo o processo, incluindo requisitos, regras de negócio, atas de reuniões e demais documentos necessários.
 
-> Integrantes: Daniel Reis.
+> Integrante: Daniel Reis.
 
-##
+### Professora Orientadora
 
-### **Professora Orientadora**
-
-#### Professora que prestou auxilio em relação a quais tecnologias utilizar e como.
+Responsável por orientar a equipe quanto à escolha de tecnologias e metodologias de desenvolvimento.
 
 > Orientadora: Jane Maria dos Santos Eberson
 
-<hr>
+---
 
-_O código não está sendo disponibilizado por se tratar de um produto desenvolvido sobe medida para um cliente, caso queira vê-lo, entrar em contato com um dos integrantes do projeto!_
+> *O código-fonte não está disponível publicamente por se tratar de um produto sob medida para o cliente. Interessados podem entrar em contato com os integrantes do projeto para obter acesso.*
+
+---
+
+Quer que eu gere também um README.md com essa estrutura pronta para usar?
